@@ -1,0 +1,7 @@
+{
+  "name": "geomesser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
